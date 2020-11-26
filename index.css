@@ -13,6 +13,26 @@ body {
     flex-direction : column;
 }
 
+.target{
+    display:flex;
+}
+
+.target div {
+    border:1px solid black;
+    text-align :center;
+}
+
+.list_table div {
+    border:1px solid black;
+}
+
+footer hr {
+    width : 1080px;
+}
+
+hr {
+    border : 1px solid gray;
+}
 
 header {
     background-color:black;
@@ -20,6 +40,10 @@ header {
     width: 1080px;
     height: 120px;
     margin-top : 0px;
+}
+
+table {
+    border : 1px solid black;
 }
 
 div {
