@@ -26,12 +26,17 @@ body {
     border:1px solid black;
 }
 
+.form_div {
+    border:1px solid black;
+}
+
 footer hr {
     width : 1080px;
+    border-top : 1px solid gray;
 }
 
 hr {
-    border : 1px solid gray;
+    border-top : 1px solid gray;
 }
 
 header {
